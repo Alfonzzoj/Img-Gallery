@@ -1,24 +1,24 @@
-# Galeria de imagenes con Bootstrap 4 :camera:
+# Gallery of images with Bootstrap 4: camera:
 
-Galeria de imagenes sencilla, utilizando Boostrap 4 y Javascript.
+Simple image gallery, using Boostrap 4 and Javascript.
 
-## Comenzando 🚀
+## Starting 🚀
 
-![alt tag](https://github.com/Alfonzzoj/Img-Gallery/blob/master/screenshot/screen.png)
+! [alt tag] (https://github.com/Alfonzzoj/Img-Gallery/blob/master/screenshot/screen.png)
 ##
-![alt tag](https://github.com/Alfonzzoj/Img-Gallery/blob/master/screenshot/screen2.png)
+! [alt tag] (https://github.com/Alfonzzoj/Img-Gallery/blob/master/screenshot/screen2.png)
 
-## Despliegue 📦
+## Deployment 📦
 
-Version web disponible :globe_with_meridians: - https://alfonzzoj.github.io/Img-Gallery 
+Available web version: globe_with_meridians: - https://alfonzzoj.github.io/Img-Gallery
 
-## Construido con 🛠️
+## Built with 🛠️
 
-* [Bootstrap 4](https://getbootstrap.com/)  - El framework web usado
-* [HTML,JS]                                 - Usado para Estructura basica y dinamismo a las imagenes
+* [Bootstrap 4] (https://getbootstrap.com/) - The web framework used
+* [HTML, JS] - Used for Basic structure and dynamism of images
 
-## Versionado 📌
+## Versioned 📌
 
-* [v1.0](https://github.com/Alfonzzoj/Img-Gallery/releases/tag/v1.0)              - Version web disponible
+* [v1.0] (https://github.com/Alfonzzoj/Img-Gallery/releases/tag/v1.0) - Web version available
 
-Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/Alfonzzoj/Img-Gallery/tags).
+For all available versions, look at the [tags in this repository] (https://github.com/Alfonzzoj/Img-Gallery/tags).
